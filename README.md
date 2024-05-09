@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=wye139629&label=Profile%20views&color=0e75b6&style=flat" alt="wye139629" />  
 <h1 align="center">Hi 👋, I'm William Liu</h1>
 
 <h3 align="center">Software Engineer | Knowledge Sharing | Collaboration Enthusiast | Adaptive Problem Solver</h3>
@@ -7,10 +8,6 @@ Hi, I'm Yen-Wei Liu (aka William), a software engineer specializing in web devel
 
 I also passionate about knowledge sharing and collaborative learning, finding profound fulfillment in the exchange of ideas and insights with peers. I firmly believe that by empowering and supporting others, we not only foster individual growth but also cultivate a thriving community of learners.
 </p>
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=wye139629&label=Profile%20views&color=0e75b6&style=flat" alt="wye139629" />  
-</div>
 
 <table>
   <tr>
