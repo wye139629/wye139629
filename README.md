@@ -24,8 +24,4 @@ I'm also passionate about knowledge sharing and collaborative learning, finding 
   </tr>
 </table>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wye139629&show_icons=true&locale=en&layout=compact" alt="wye139629" />  
-</div>
-
   
